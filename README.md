@@ -1,4 +1,6 @@
-Este proyecto colaborativo fue desarrollado como parte de la Tecnicatura en Desarrollo de Software en el Instituto de Formación Técnica Superior (IFTS) N°29.
+Este proyecto colaborativo fue desarrollado como parte de la Tecnicatura en Desarrollo
+
+de Software en el Instituto de Formación Técnica Superior (IFTS) N°29.
 El sistema sigue una línea de desarrollo propuesta por la materia "Desarrollo Orientado a Objetos", correspondiente al segundo cuatrimestre de la carrera.
 •El sistema Club Deportivo incluye las siguientes funcionalidades principales:
 -Menú principal: Interfaz de usuario que proporciona acceso a todas las funcionalidades del sistema.
